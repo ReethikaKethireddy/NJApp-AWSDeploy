@@ -1,3 +1,6 @@
+#This is a small Node JS Application to be deployed on AWS. Initially testing on local Machine. Later to #be deployed on AWS EC2 instance - Linux server
+
+
 # Deploying a Node Js Application on AWS EC2
 
 ### Testing the project locally
